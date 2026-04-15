@@ -1,4 +1,2 @@
-# demo
-first git repository
-<br>
+# To-Do List App
 Author- Aakshi
